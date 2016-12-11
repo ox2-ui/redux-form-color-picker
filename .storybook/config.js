@@ -9,7 +9,7 @@ function loadStories() {
 
 // Custom storybook options
 setOptions({
-  name: 'color-picker',
+  name: 'rf-color-picker',
 });
 
 
