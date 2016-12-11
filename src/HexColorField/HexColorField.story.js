@@ -1,13 +1,13 @@
 import React from 'react';
 import { storiesOf } from '@kadira/storybook';
-import HexPicker from './HexPicker';
+import HexColorField from './HexColorField';
 
 const input = {
   value: '#FE1D91',
   onChange: (value) => console.log('🍇', value), // eslint-disable-line no-console
 };
 
-storiesOf('HexPicker', module)
+storiesOf('HexColorField', module)
   .add('default', () => (
-    <HexPicker input={input} />
+    <HexColorField input={input} />
   ));

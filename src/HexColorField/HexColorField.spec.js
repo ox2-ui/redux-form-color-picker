@@ -2,13 +2,13 @@
 
 import React from 'react';
 import { shallow } from 'enzyme';
-import HexPicker from './HexPicker';
+import HexColorField from './HexColorField';
 import { assert } from 'chai';
 
-describe('HexPicker', () => {
-  it('should render a <HexPicker> element', () => {
+describe('HexColorField', () => {
+  it('should render a <HexColorField> element', () => {
     const wrapper = shallow(
-      <HexPicker />
+      <HexColorField />
     );
     assert.strictEqual(wrapper.type(), 'div', 'should be a <div>');
   });

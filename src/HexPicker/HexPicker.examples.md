@@ -1,3 +1,0 @@
-### HexPicker
-
-    <HexPicker/>
