@@ -1,3 +1,0 @@
-### Swatch
-
-    <Swatch/>

@@ -1,6 +1,6 @@
 {
   "name": "@ox2/redux-form-color-picker",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Color picker component wrapper for redux-form.",
   "repository": {
     "type": "git",
@@ -73,6 +73,7 @@
     "npm": "^3.0.0"
   },
   "dependencies": {
-    "react-color": "^2.9.0"
+    "@kadira/storyshots": "^2.1.0",
+    "@ox2/color-picker": "^0.0.1"
   }
 }

@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react';
-import ColorPickerChrome from '../ColorPickerChrome';
+import ColorPickerChrome from '@ox2/color-picker/ColorPickerChrome';
 
 /**
  * Picker Component
