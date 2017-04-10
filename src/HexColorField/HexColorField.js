@@ -4,12 +4,12 @@ import ColorPickerChrome from '@ox2/color-picker/ColorPickerChrome';
 /**
  * HexColorField Component
  */
-const HexColorField = ({ input }) => {
+const HexColorField = ({ input, ...custom }) => {
   return (
     <ColorPickerChrome
       value={{ hex: input.value }}
-      disableAlpha={true}
       onChange={(value) => input.onChange(value.hex)}
+      {...custom}
     />
   );
 };
