@@ -1,6 +1,6 @@
 {
   "name": "@ox2/redux-form-color-picker",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Color picker component wrapper for redux-form.",
   "repository": {
     "type": "git",
