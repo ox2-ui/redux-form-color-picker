@@ -74,6 +74,6 @@
   },
   "dependencies": {
     "@kadira/storyshots": "^2.1.0",
-    "@ox2/color-picker": "^0.0.1"
+    "@ox2/color-picker": "^0.1.1"
   }
 }

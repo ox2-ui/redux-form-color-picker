@@ -119,9 +119,9 @@
     react-test-renderer "^15.3.1"
     require-hijack "^1.2.1"
 
-"@ox2/color-picker@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@ox2/color-picker/-/color-picker-0.0.1.tgz#a40c6fcca448fe49c32afcc58dbb7e808e3f09c4"
+"@ox2/color-picker@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@ox2/color-picker/-/color-picker-0.1.1.tgz#eb1f6edf5d271e35386e584253d0b835dfba609f"
   dependencies:
     react-color "^2.10.0"
 
